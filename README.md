@@ -1,2 +1,1 @@
-# sample
-my new sample file
+# sample something changed
